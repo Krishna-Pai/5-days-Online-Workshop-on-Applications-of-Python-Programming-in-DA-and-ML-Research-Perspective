@@ -9,6 +9,9 @@ Department of Electrical and Electronics
 KLE DR.M S Sheshgiri College of Engineering and Technology  
 Belagavi, Karnataka
 
+## Description
+These were the exercise programs which were coded by me during the 5 days online workshop.  All the programs are coded using Jupyter Notebook.
+
 ## Resource Persons:
 1)	Dr. S. Mohideen Badhusha   
 Department of CSE, AIET, Mijar   
